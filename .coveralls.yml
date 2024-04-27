@@ -1,0 +1,4 @@
+repo_token: lVbUbHbSJ1a9kfH52fHze8ps5LMVbLITl
+
+coverage_clover: clover.xml
+json_path: coveralls-upload.json

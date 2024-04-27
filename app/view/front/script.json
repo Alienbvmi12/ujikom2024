@@ -1,0 +1,12 @@
+[
+    "<script src=\"{{base_url}}skin/libs/datatables/jQuery-3.7.0/jquery-3.7.0.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/bootstrap/js/bootstrap.bundle.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/datatables/datatables.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/toastr/toastr.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/nprogress/nprogress.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/swal/dist/sweetalert2.all.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/select2/dist/js/select2.full.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/jquery-number/jquery.number.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/sheetjs/dist/xlsx.full.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/libs/chartjs/dist/chart.umd.js\"></script>"
+]
